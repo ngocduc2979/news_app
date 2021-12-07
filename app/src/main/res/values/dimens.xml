@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_button_toolbar">30dp</dimen>
+    <dimen name="height_item_news">120dp</dimen>
+    <dimen name="width_imageview_item">120dp</dimen>
+    <dimen name="height_imageview_item">90dp</dimen>
+    <dimen name="height_title_news">65dp</dimen>
+    <dimen name="height_pubDate_news">20dp</dimen>
+    <dimen name="width_close">60dp</dimen>
+    <dimen name="circle_image">60dp</dimen>
+</resources>

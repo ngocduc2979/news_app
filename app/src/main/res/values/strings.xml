@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="close">Đóng</string>
+    <string name="hint_search">Tìm kiếm</string>
+    <string name="Hot_News">Tin nổi bật</string>
+    <string name="update">Cập nhật</string>
+    <string name="more">Đọc thêm</string>
+    <string name="list_news_page">Danh sách đầu báo</string>
+    <string name="navigation_open">Open</string>
+    <string name="navigation_close">Close</string>
+    <string name="home">Trang chủ</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="loading">Đang tải...</string>
+</resources>
